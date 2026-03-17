@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Elvira 👋
 
-<!--
-**elvsab/elvsab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer (React / JavaScript)
 
-Here are some ideas to get you started:
+## 🚀 About me
+- Frontend developer with technical background in IT
+- Stack: JavaScript (ES6+), TypeScript, React
+- Experience with REST API, SPA applications
+- English level: C1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- HTML5, CSS3 (Flexbox, Grid, BEM)
+- JavaScript, TypeScript
+- React, Redux Toolkit
+- REST API, Axios
+- Webpack / Vite
+- Git, GitHub
+
+## 💼 Projects
+- 🔗 
+
+## 📫 Contacts
+- Telegram: https://t.me/elvira_lat
+- Email: elviralatyshevskaia@gmail.com
