@@ -29,6 +29,54 @@
 
 ## 💼 Projects
 
+### 🔄 SkillSwap
+
+SPA for skill exchange (**React, TypeScript, Redux Toolkit**)
+
+* Team-based project where I acted as **Team Lead**
+* Implemented key features: registration flow, skill creation, profile system
+* Improved architecture and fixed critical issues after development
+
+👉 [Repository](https://github.com/elvsab/SkillSwap-app)
+👉 [Live Demo](https://skill-swap-app-phi.vercel.app/)
+
+---
+
+### 🛒 promtech_marketplace
+
+Marketplace application (**React, TypeScript, REST API**)
+
+* Product catalog with filtering and search
+* Modular architecture with reusable components
+* Focus on clean code and scalability
+
+👉 [Repository](https://github.com/elvsab/promtech_marketplace)
+
+---
+
+### 🍔 Stellar Burgers
+
+Interactive burger builder (**React, TypeScript, Redux**)
+
+* Drag & drop constructor
+* Order flow with modal windows
+* API integration
+
+👉 [Repository](https://github.com/elvsab/stellar-burgers)
+
+---
+
+### 📸 Mesto
+
+Social app with cards and likes (**JavaScript, REST API**)
+
+* CRUD operations with API
+* Modal system and form validation
+* Responsive layout
+
+👉 [Repository](https://github.com/elvsab/mesto-project-ff)
+
+
 ---
 
 ## 📫 Contact Me
@@ -36,10 +84,3 @@
 - Telegram: https://t.me/elvira_lat  
 - Email: elviralatyshevskaia@gmail.com
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=elvsab&show_icons=true&theme=default"/>
-</p>
